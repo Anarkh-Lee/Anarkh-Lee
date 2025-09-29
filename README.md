@@ -15,17 +15,6 @@
 ## 🌟 关于我
 
 <div align="center">
-
-<!-- 个人简介头部 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=667eea&customColorList=12&height=200&section=header&text=Anarkh-Lee&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=全栈开发工程师%20|%20数据库架构师%20|%20技术创新者&descSize=20&descAlignY=75&descAlign=50" />
-
-<br/>
-
-<!-- 个人信息卡片 -->
-<img src="https://img.shields.io/badge/👋-你好，我是%20Anarkh--Lee-667eea?style=for-the-badge&labelColor=ffffff&color=667eea&logoColor=white" />
-
-<br/><br/>
-
 <!-- 三个核心能力卡片 -->
 <div>
   <img src="https://img.shields.io/badge/🚀-技术专长-ff9a9e?style=for-the-badge&labelColor=ffffff&color=ff9a9e" />
@@ -37,13 +26,13 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <br/>
-  <sub>微服务架构设计专家</sub>
+  <sub>微服务架构</sub>
 </div>
 
 <br/>
 
 <div>
-  <img src="https://img.shields.io/badge/💾-数据库专家-a8edea?style=for-the-badge&labelColor=ffffff&color=a8edea" />
+  <img src="https://img.shields.io/badge/💾-数据库-a8edea?style=for-the-badge&labelColor=ffffff&color=a8edea" />
   <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -53,7 +42,7 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square&logo=vector&logoColor=white" />
   <br/>
-  <sub>向量数据库优化专家</sub>
+  <sub>向量数据库优化</sub>
 </div>
 
 <br/>
@@ -102,16 +91,6 @@
 </div>
 
 <br/>
-
-<!-- 个人理念 -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=74b9ff&height=120&section=header&text=💭%20个人理念&fontSize=24&fontColor=ffffff&desc=用代码连接世界，让技术改变未来&descSize=16&descAlignY=75" />
-
-<br/>
-
-<!-- 联系状态 -->
-<img src="https://img.shields.io/badge/🌍_位置-中国%20GMT+8-4FC08D?style=flat-square&labelColor=ffffff&color=4FC08D" />
-<img src="https://img.shields.io/badge/💼_状态-开放合作机会-6DB33F?style=flat-square&labelColor=ffffff&color=6DB33F" />
-<img src="https://img.shields.io/badge/📧_联系-随时欢迎技术交流-2496ED?style=flat-square&labelColor=ffffff&color=2496ED" />
 
 </div>
 

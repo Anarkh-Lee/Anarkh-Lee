@@ -15,107 +15,41 @@
 ## 🌟 关于我
 
 <div align="center">
-
-<!-- 个人头像和标题区域 -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 40px 20px; margin: 20px 0; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50px; right: -50px; width: 100px; height: 100px; background: rgba(255,255,255,0.1); border-radius: 50%;"></div>
-  <div style="position: absolute; bottom: -30px; left: -30px; width: 60px; height: 60px; background: rgba(255,255,255,0.1); border-radius: 50%;"></div>
-  
-  <h1 style="color: white; margin: 0; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-    👋 Anarkh-Lee
-  </h1>
-  <p style="color: rgba(255,255,255,0.9); font-size: 1.3em; margin: 10px 0; font-weight: 300;">
-    全栈开发工程师 | 数据库架构师 | 技术创新者
-  </p>
-  <p style="color: rgba(255,255,255,0.8); font-size: 1em; margin: 15px 0 0 0; font-style: italic;">
-    "用代码连接世界，让技术改变未来"
-  </p>
-</div>
-
-<!-- 个人信息卡片区域 -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  
-  <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
-    <div style="font-size: 3em; margin-bottom: 15px;">🚀</div>
-    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">技术专长</h3>
-    <p style="color: #34495e; line-height: 1.6; margin: 0;">
-      Java | Python | Vue.js<br/>
-      Spring Boot | FastAPI<br/>
-      微服务架构设计
-    </p>
-  </div>
-
-  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
-    <div style="font-size: 3em; margin-bottom: 15px;">💾</div>
-    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">数据库专家</h3>
-    <p style="color: #34495e; line-height: 1.6; margin: 0;">
-      Oracle | MySQL | MongoDB<br/>
-      Redis | Neo4j | Qdrant<br/>
-      向量数据库优化
-    </p>
-  </div>
-
-  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
-    <div style="font-size: 3em; margin-bottom: 15px;">☁️</div>
-    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">云原生技术</h3>
-    <p style="color: #34495e; line-height: 1.6; margin: 0;">
-      Docker | Kubernetes<br/>
-      AWS | 阿里云<br/>
-      DevOps & CI/CD
-    </p>
-  </div>
-
-</div>
-
 <!-- 技术热情和学习方向 -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 40px 0;">
-  
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; width: 400px; color: white; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
-    <h3 style="margin: 0 0 20px 0; font-size: 1.4em; text-align: center;">🔥 技术热情</h3>
-    <div style="display: flex; flex-direction: column; gap: 12px;">
-      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
-        <span style="font-weight: bold;">🏗️</span> 微服务架构设计与优化
-      </div>
-      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
-        <span style="font-weight: bold;">🤖</span> AI驱动的智能应用开发
-      </div>
-      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
-        <span style="font-weight: bold;">📊</span> 大数据处理与实时分析
-      </div>
-      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
-        <span style="font-weight: bold;">🔍</span> 向量检索与语义搜索
-      </div>
-    </div>
-  </div>
 
-  <div style="background: linear-gradient(135deg, #ffeaa7 0%, #fab1a0 100%); border-radius: 20px; padding: 30px; width: 400px; color: #2c3e50; box-shadow: 0 10px 30px rgba(255, 234, 167, 0.4);">
-    <h3 style="margin: 0 0 20px 0; font-size: 1.4em; text-align: center;">📚 持续学习</h3>
-    <div style="display: flex; flex-direction: column; gap: 12px;">
-      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <span style="font-weight: bold;">☁️</span> 云原生技术栈深度实践
-      </div>
-      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <span style="font-weight: bold;">🧠</span> 向量数据库性能优化
-      </div>
-      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <span style="font-weight: bold;">🕸️</span> 图神经网络算法研究
-      </div>
-      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <span style="font-weight: bold;">🎯</span> 分布式系统架构设计
-      </div>
-    </div>
-  </div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🔥-技术热情-667eea?style=for-the-badge&labelColor=ffffff&color=667eea" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🏗️-微服务架构设计与优化-4FC08D?style=flat&labelColor=f8f9fa&color=4FC08D" />
+      <br/>
+      <img src="https://img.shields.io/badge/🤖-AI驱动的智能应用开发-6DB33F?style=flat&labelColor=f8f9fa&color=6DB33F" />
+      <br/>
+      <img src="https://img.shields.io/badge/📊-大数据处理与实时分析-2496ED?style=flat&labelColor=f8f9fa&color=2496ED" />
+      <br/>
+      <img src="https://img.shields.io/badge/🔍-向量检索与语义搜索-FF6B6B?style=flat&labelColor=f8f9fa&color=FF6B6B" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/📚-持续学习-ffeaa7?style=for-the-badge&labelColor=ffffff&color=ffeaa7" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/☁️-云原生技术栈深度实践-326CE5?style=flat&labelColor=f8f9fa&color=326CE5" />
+      <br/>
+      <img src="https://img.shields.io/badge/🧠-向量数据库性能优化-FF6F00?style=flat&labelColor=f8f9fa&color=FF6F00" />
+      <br/>
+      <img src="https://img.shields.io/badge/🕸️-图神经网络算法研究-8A2BE2?style=flat&labelColor=f8f9fa&color=8A2BE2" />
+      <br/>
+      <img src="https://img.shields.io/badge/🎯-分布式系统架构设计-F80000?style=flat&labelColor=f8f9fa&color=F80000" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-<!-- 联系信息 -->
-<div style="background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%); border-radius: 20px; padding: 25px; margin: 30px 0; color: white; text-align: center;">
-  <p style="margin: 0; font-size: 1.1em; font-weight: 300;">
-    🌍 <strong>Location:</strong> 中国 GMT+8 &nbsp;&nbsp;&nbsp;
-    💼 <strong>Status:</strong> 开放合作机会 &nbsp;&nbsp;&nbsp;
-    📧 <strong>Contact:</strong> 随时欢迎技术交流
-  </p>
-</div>
+<!-- 个人理念 -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=74b9ff&height=120&section=header&text=💭%20个人理念&fontSize=24&fontColor=ffffff&desc=用代码连接世界，让技术改变未来&descSize=16&descAlignY=75" />
+
+
 
 </div>
 

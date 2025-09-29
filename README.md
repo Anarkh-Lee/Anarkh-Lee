@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+🚀;Java+%7C+Python+%7C+Vue+%7C+Angular;Database+Architect+💾;Vector+Database+Expert+🧠;Cloud+Native+Enthusiast+☁️" alt="Typing SVV" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+🚀;Java+%7C+Python+%7C+Vue+%7C+Angular;Database+Engineer+💾;Vector+Database+Engineer+🧠;Cloud+Native+Enthusiast+☁️" alt="Typing SVV" />
 </div>
 
 ## 🌟 关于我

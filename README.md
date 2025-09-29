@@ -256,24 +256,43 @@ graph TB
 
 ### 💎 核心作品
 
-<table>
+<table style="border: none; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; padding: 20px;">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Anarkh-Lee/anarkh-faq-py3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=anarkh-faq-py3&theme=tokyonight&bg_color=0D1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&border_color=4FC08D" alt="anarkh-faq-py3"/>
-      </a>
+    <td width="50%" style="border: none; padding: 15px;">
+      <div style="background: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <a href="https://github.com/Anarkh-Lee/anarkh-faq-py3">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=anarkh-faq-py3&theme=vue&bg_color=ffffff&title_color=4FC08D&text_color=2c3e50&icon_color=6DB33F&border_color=4FC08D&border_radius=10" alt="anarkh-faq-py3"/>
+        </a>
+        <div style="margin-top: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/🐍_Python-智能问答系统-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Project"/>
+          <br/>
+          <img src="https://img.shields.io/badge/🧠_Qdrant-向量搜索-FF6B6B?style=flat-square&logoColor=white" alt="Qdrant"/>
+          <img src="https://img.shields.io/badge/🤖_AI-智能问答-4FC08D?style=flat-square&logoColor=white" alt="AI"/>
+        </div>
+      </div>
     </td>
-    <td width="50%">
-      <a href="https://github.com/Anarkh-Lee/auth-demos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=auth-demos&theme=tokyonight&bg_color=0D1117&title_color=6DB33F&text_color=ffffff&icon_color=6DB33F&border_color=6DB33F" alt="auth-demos"/>
-      </a>
+    <td width="50%" style="border: none; padding: 15px;">
+      <div style="background: white; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <a href="https://github.com/Anarkh-Lee/auth-demos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=auth-demos&theme=vue&bg_color=ffffff&title_color=6DB33F&text_color=2c3e50&icon_color=4FC08D&border_color=6DB33F&border_radius=10" alt="auth-demos"/>
+        </a>
+        <div style="margin-top: 10px; text-align: center;">
+          <img src="https://img.shields.io/badge/☕_Java-身份认证演示-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Project"/>
+          <br/>
+          <img src="https://img.shields.io/badge/🍃_Spring-微服务-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+          <img src="https://img.shields.io/badge/🔐_OAuth2-安全认证-2496ED?style=flat-square&logoColor=white" alt="OAuth2"/>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
 
+### 📊 项目统计
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🐍_Python-智能问答系统-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Project"/>
-  <img src="https://img.shields.io/badge/☕_Java-身份认证演示-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Project"/>
+  <img src="https://img.shields.io/badge/📁_总项目数-20+-4FC08D?style=for-the-badge&labelColor=ffffff&color=6DB33F" alt="总项目"/>
+  <img src="https://img.shields.io/badge/🌟_主要语言-Python%20%7C%20Java-3776AB?style=for-the-badge&labelColor=ffffff&color=ED8B00" alt="主要语言"/>
+  <img src="https://img.shields.io/badge/🔧_技术栈-Full%20Stack-2496ED?style=for-the-badge&labelColor=ffffff&color=FF6B6B" alt="技术栈"/>
 </p>
 
 </div>
@@ -281,7 +300,44 @@ graph TB
 ## 📈 贡献活动
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anarkh-Lee&theme=react-dark&bg_color=0D1117&color=4FC08D&line=6DB33F&point=ffffff&area=true&hide_border=false&custom_title=年度贡献活动统计" alt="贡献活动图" />
+
+### 🎆 年度活动统计
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anarkh-Lee&theme=vue&bg_color=ffffff&color=4FC08D&line=6DB33F&point=2c3e50&area=true&hide_border=true&custom_title=年度贡献活动统计&title_color=4FC08D&area_color=E8F5E8" alt="贡献活动图" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
+
+### 📅 活动数据概览
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <div style="background: white; border-radius: 10px; padding: 15px; margin: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/📅_本年提交-50+-4FC08D?style=for-the-badge&labelColor=f8f9fa&color=6DB33F" alt="本年提交"/>
+        <br/><small>代码提交</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: white; border-radius: 10px; padding: 15px; margin: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/🔥_连续天数-30+-FF6B6B?style=for-the-badge&labelColor=f8f9fa&color=F80000" alt="连续天数"/>
+        <br/><small>连续贡献</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: white; border-radius: 10px; padding: 15px; margin: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/🌟_最高记录-100+-2496ED?style=for-the-badge&labelColor=f8f9fa&color=3178C6" alt="最高记录"/>
+        <br/><small>历史最高</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: white; border-radius: 10px; padding: 15px; margin: 5px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/📊_总贡献-500+-9945FF?style=for-the-badge&labelColor=f8f9fa&color=8A2BE2" alt="总贡献"/>
+        <br/><small>总贡献数</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 💡 技能矩阵
@@ -344,14 +400,6 @@ graph TB
     <td>智能应用, 自动化</td>
   </tr>
 </table>
-
-### 🏆 技术认证与成就
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certified">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified">
-  <img src="https://img.shields.io/badge/Docker-Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Certified">
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA">
-</p>
 
 </div>
 

@@ -16,75 +16,104 @@
 
 <div align="center">
 
-<!-- 个人简介卡片 -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+<!-- 个人头像和标题区域 -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; padding: 40px 20px; margin: 20px 0; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: -50px; right: -50px; width: 100px; height: 100px; background: rgba(255,255,255,0.1); border-radius: 50%;"></div>
+  <div style="position: absolute; bottom: -30px; left: -30px; width: 60px; height: 60px; background: rgba(255,255,255,0.1); border-radius: 50%;"></div>
   
-### 👋 你好，我是 Anarkh-Lee
+  <h1 style="color: white; margin: 0; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+    👋 Anarkh-Lee
+  </h1>
+  <p style="color: rgba(255,255,255,0.9); font-size: 1.3em; margin: 10px 0; font-weight: 300;">
+    全栈开发工程师 | 数据库架构师 | 技术创新者
+  </p>
+  <p style="color: rgba(255,255,255,0.8); font-size: 1em; margin: 15px 0 0 0; font-style: italic;">
+    "用代码连接世界，让技术改变未来"
+  </p>
+</div>
 
-<table style="border: none; background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; margin: 20px 0;">
-  <tr>
-    <td align="center" width="33%" style="border: none; padding: 15px;">
-      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/👨‍💻-开发者-4FC08D?style=for-the-badge&logoColor=white" alt="Developer" style="margin-bottom: 10px;"/>
-        <h4 style="margin: 10px 0; color: #2c3e50;">Anarkh-Lee</h4>
-        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">全栈开发工程师</p>
-      </div>
-    </td>
-    <td align="center" width="33%" style="border: none; padding: 15px;">
-      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/🎯-角色-6DB33F?style=for-the-badge&logoColor=white" alt="Role" style="margin-bottom: 10px;"/>
-        <h4 style="margin: 10px 0; color: #2c3e50;">架构师</h4>
-        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">数据库专家 & 系统设计</p>
-      </div>
-    </td>
-    <td align="center" width="33%" style="border: none; padding: 15px;">
-      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-        <img src="https://img.shields.io/badge/🌍-位置-FF6B6B?style=for-the-badge&logoColor=white" alt="Location" style="margin-bottom: 10px;"/>
-        <h4 style="margin: 10px 0; color: #2c3e50;">中国 🇨🇳</h4>
-        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">GMT+8 时区</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- 个人信息卡片区域 -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
+  
+  <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
+    <div style="font-size: 3em; margin-bottom: 15px;">🚀</div>
+    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">技术专长</h3>
+    <p style="color: #34495e; line-height: 1.6; margin: 0;">
+      Java | Python | Vue.js<br/>
+      Spring Boot | FastAPI<br/>
+      微服务架构设计
+    </p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
+    <div style="font-size: 3em; margin-bottom: 15px;">💾</div>
+    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">数据库专家</h3>
+    <p style="color: #34495e; line-height: 1.6; margin: 0;">
+      Oracle | MySQL | MongoDB<br/>
+      Redis | Neo4j | Qdrant<br/>
+      向量数据库优化
+    </p>
+  </div>
+
+  <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 20px; padding: 25px; width: 280px; text-align: center; box-shadow: 0 8px 25px rgba(0,0,0,0.1); transform: translateY(0); transition: transform 0.3s ease;">
+    <div style="font-size: 3em; margin-bottom: 15px;">☁️</div>
+    <h3 style="color: #2c3e50; margin: 10px 0; font-size: 1.2em;">云原生技术</h3>
+    <p style="color: #34495e; line-height: 1.6; margin: 0;">
+      Docker | Kubernetes<br/>
+      AWS | 阿里云<br/>
+      DevOps & CI/CD
+    </p>
+  </div>
 
 </div>
 
-<!-- 技能与兴趣 -->
-<table style="width: 100%; margin-top: 30px;">
-  <tr>
-    <td width="50%" style="vertical-align: top; padding: 0 15px;">
-      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 25px; margin: 10px; text-align: center;">
-        <h3 style="color: #2c3e50; margin-bottom: 20px;">🔥 技术热情</h3>
-        <div style="text-align: left;">
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🏗️ 微服务架构设计</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🤖 AI驱动的智能应用</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">📊 大数据处理与分析</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🔍 向量检索与语义搜索</p>
-        </div>
+<!-- 技术热情和学习方向 -->
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin: 40px 0;">
+  
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; width: 400px; color: white; box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);">
+    <h3 style="margin: 0 0 20px 0; font-size: 1.4em; text-align: center;">🔥 技术热情</h3>
+    <div style="display: flex; flex-direction: column; gap: 12px;">
+      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
+        <span style="font-weight: bold;">🏗️</span> 微服务架构设计与优化
       </div>
-    </td>
-    <td width="50%" style="vertical-align: top; padding: 0 15px;">
-      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 25px; margin: 10px; text-align: center;">
-        <h3 style="color: #2c3e50; margin-bottom: 20px;">📚 持续学习</h3>
-        <div style="text-align: left;">
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">☁️ 云原生技术栈</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🧠 向量数据库优化</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🕸️ 图神经网络</p>
-          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🎯 系统架构设计</p>
-        </div>
+      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
+        <span style="font-weight: bold;">🤖</span> AI驱动的智能应用开发
       </div>
-    </td>
-  </tr>
-</table>
+      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
+        <span style="font-weight: bold;">📊</span> 大数据处理与实时分析
+      </div>
+      <div style="background: rgba(255,255,255,0.15); border-radius: 12px; padding: 15px; backdrop-filter: blur(10px);">
+        <span style="font-weight: bold;">🔍</span> 向量检索与语义搜索
+      </div>
+    </div>
+  </div>
 
-<!-- 个人理念 -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 30px 10px; text-align: center;">
-  <h3 style="color: white; margin-bottom: 15px;">💭 个人理念</h3>
-  <p style="color: white; font-size: 18px; font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
-    "用代码连接世界，让技术改变未来"
-  </p>
-  <p style="color: rgba(255,255,255,0.9); font-size: 14px; margin: 10px 0 0 0;">
-    Code connects the world, Technology shapes the future
+  <div style="background: linear-gradient(135deg, #ffeaa7 0%, #fab1a0 100%); border-radius: 20px; padding: 30px; width: 400px; color: #2c3e50; box-shadow: 0 10px 30px rgba(255, 234, 167, 0.4);">
+    <h3 style="margin: 0 0 20px 0; font-size: 1.4em; text-align: center;">📚 持续学习</h3>
+    <div style="display: flex; flex-direction: column; gap: 12px;">
+      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <span style="font-weight: bold;">☁️</span> 云原生技术栈深度实践
+      </div>
+      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <span style="font-weight: bold;">🧠</span> 向量数据库性能优化
+      </div>
+      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <span style="font-weight: bold;">🕸️</span> 图神经网络算法研究
+      </div>
+      <div style="background: rgba(255,255,255,0.6); border-radius: 12px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <span style="font-weight: bold;">🎯</span> 分布式系统架构设计
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- 联系信息 -->
+<div style="background: linear-gradient(135deg, #74b9ff 0%, #0984e3 100%); border-radius: 20px; padding: 25px; margin: 30px 0; color: white; text-align: center;">
+  <p style="margin: 0; font-size: 1.1em; font-weight: 300;">
+    🌍 <strong>Location:</strong> 中国 GMT+8 &nbsp;&nbsp;&nbsp;
+    💼 <strong>Status:</strong> 开放合作机会 &nbsp;&nbsp;&nbsp;
+    📧 <strong>Contact:</strong> 随时欢迎技术交流
   </p>
 </div>
 

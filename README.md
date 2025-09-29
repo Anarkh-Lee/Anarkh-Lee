@@ -15,34 +15,79 @@
 ## 🌟 关于我
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/👨‍💻_开发者-Anarkh--Lee-4FC08D?style=for-the-badge" alt="Developer"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🎯_角色-Full%20Stack%20Developer-6DB33F?style=for-the-badge" alt="Role"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🌍_位置-中国%20🇨🇳-FF6B6B?style=for-the-badge" alt="Location"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/💭_理念-用代码构建数字世界-2496ED?style=for-the-badge" alt="Motto"/>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔥 技术热情</h3>
-        <p>
-          🏗️ 微服务架构设计<br/>
-          🤖 AI驱动的智能应用<br/>
-          📊 大数据处理与分析<br/>
-          🔍 向量检索与语义搜索
-        </p>
-        <h3>📚 持续学习</h3>
-        <p>
-          ☁️ 云原生技术栈<br/>
-          🧠 向量数据库优化<br/>
-          🕸️ 图神经网络
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<!-- 个人简介卡片 -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
+  
+### 👋 你好，我是 Anarkh-Lee
+
+<table style="border: none; background: rgba(255,255,255,0.95); border-radius: 15px; padding: 20px; margin: 20px 0;">
+  <tr>
+    <td align="center" width="33%" style="border: none; padding: 15px;">
+      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/👨‍💻-开发者-4FC08D?style=for-the-badge&logoColor=white" alt="Developer" style="margin-bottom: 10px;"/>
+        <h4 style="margin: 10px 0; color: #2c3e50;">Anarkh-Lee</h4>
+        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">全栈开发工程师</p>
+      </div>
+    </td>
+    <td align="center" width="33%" style="border: none; padding: 15px;">
+      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/🎯-角色-6DB33F?style=for-the-badge&logoColor=white" alt="Role" style="margin-bottom: 10px;"/>
+        <h4 style="margin: 10px 0; color: #2c3e50;">架构师</h4>
+        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">数据库专家 & 系统设计</p>
+      </div>
+    </td>
+    <td align="center" width="33%" style="border: none; padding: 15px;">
+      <div style="background: white; border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+        <img src="https://img.shields.io/badge/🌍-位置-FF6B6B?style=for-the-badge&logoColor=white" alt="Location" style="margin-bottom: 10px;"/>
+        <h4 style="margin: 10px 0; color: #2c3e50;">中国 🇨🇳</h4>
+        <p style="margin: 5px 0; color: #7f8c8d; font-size: 14px;">GMT+8 时区</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- 技能与兴趣 -->
+<table style="width: 100%; margin-top: 30px;">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding: 0 15px;">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 25px; margin: 10px; text-align: center;">
+        <h3 style="color: #2c3e50; margin-bottom: 20px;">🔥 技术热情</h3>
+        <div style="text-align: left;">
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🏗️ 微服务架构设计</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🤖 AI驱动的智能应用</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">📊 大数据处理与分析</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🔍 向量检索与语义搜索</p>
+        </div>
+      </div>
+    </td>
+    <td width="50%" style="vertical-align: top; padding: 0 15px;">
+      <div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); border-radius: 15px; padding: 25px; margin: 10px; text-align: center;">
+        <h3 style="color: #2c3e50; margin-bottom: 20px;">📚 持续学习</h3>
+        <div style="text-align: left;">
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">☁️ 云原生技术栈</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🧠 向量数据库优化</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🕸️ 图神经网络</p>
+          <p style="margin: 10px 0; padding: 8px 15px; background: rgba(255,255,255,0.7); border-radius: 8px; color: #34495e;">🎯 系统架构设计</p>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- 个人理念 -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 30px 10px; text-align: center;">
+  <h3 style="color: white; margin-bottom: 15px;">💭 个人理念</h3>
+  <p style="color: white; font-size: 18px; font-weight: bold; margin: 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+    "用代码连接世界，让技术改变未来"
+  </p>
+  <p style="color: rgba(255,255,255,0.9); font-size: 14px; margin: 10px 0 0 0;">
+    Code connects the world, Technology shapes the future
+  </p>
+</div>
+
 </div>
 
 ## 🛠️ 技术宇宙

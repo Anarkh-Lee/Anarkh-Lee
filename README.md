@@ -15,82 +15,66 @@
 ## 🌟 关于我
 
 <div align="center">
-<!-- 三个核心能力卡片 -->
+
+<!-- 三个核心能力卡片放一排 -->
 <div>
-  <img src="https://img.shields.io/badge/🚀-技术专长-ff9a9e?style=for-the-badge&labelColor=ffffff&color=ff9a9e" />
-  <br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <br/>
-  <sub>微服务架构</sub>
+  <img src="https://img.shields.io/badge/🚀-微服务架构-ff9a9e?style=for-the-badge&labelColor=ffffff&color=ff9a9e" />
+  <img src="https://img.shields.io/badge/🧠-向量数据库优化-a8edea?style=for-the-badge&labelColor=ffffff&color=a8edea" />
+  <img src="https://img.shields.io/badge/☁️-DevOps%20&%20CI/CD%20实践者-ffecd2?style=for-the-badge&labelColor=ffffff&color=ffecd2" />
 </div>
 
 <br/>
 
+<!-- 技术专长详细展示 -->
 <div>
-  <img src="https://img.shields.io/badge/💾-数据库-a8edea?style=for-the-badge&labelColor=ffffff&color=a8edea" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square&logo=vector&logoColor=white" />
   <br/>
-  <sub>向量数据库优化</sub>
-</div>
-
-<br/>
-
-<div>
-  <img src="https://img.shields.io/badge/☁️-云原生技术-ffecd2?style=for-the-badge&labelColor=ffffff&color=ffecd2" />
-  <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/阿里云-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" />
-  <br/>
-  <sub>DevOps & CI/CD 实践者</sub>
 </div>
 
 <br/><br/>
 
-<!-- 技术热情和学习方向 - 无表格版本 -->
+<!-- 技术热情和持续学习放一排 -->
 <div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/🔥-技术热情-667eea?style=for-the-badge&labelColor=ffffff&color=667eea" />
-    <br/><br/>
-    <img src="https://img.shields.io/badge/🏗️-微服务架构设计与优化-4FC08D?style=flat&labelColor=f8f9fa&color=4FC08D" />
-    <br/>
-    <img src="https://img.shields.io/badge/🤖-AI驱动的智能应用开发-6DB33F?style=flat&labelColor=f8f9fa&color=6DB33F" />
-    <br/>
-    <img src="https://img.shields.io/badge/📊-大数据处理与实时分析-2496ED?style=flat&labelColor=f8f9fa&color=2496ED" />
-    <br/>
-    <img src="https://img.shields.io/badge/🔍-向量检索与语义搜索-FF6B6B?style=flat&labelColor=f8f9fa&color=FF6B6B" />
-  </div>
-
-  <br/><br/>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/📚-持续学习-ffeaa7?style=for-the-badge&labelColor=ffffff&color=ffeaa7" />
-    <br/><br/>
-    <img src="https://img.shields.io/badge/☁️-云原生技术栈深度实践-326CE5?style=flat&labelColor=f8f9fa&color=326CE5" />
-    <br/>
-    <img src="https://img.shields.io/badge/🧠-向量数据库性能优化-FF6F00?style=flat&labelColor=f8f9fa&color=FF6F00" />
-    <br/>
-    <img src="https://img.shields.io/badge/🕸️-图神经网络算法研究-8A2BE2?style=flat&labelColor=f8f9fa&color=8A2BE2" />
-    <br/>
-    <img src="https://img.shields.io/badge/🎯-分布式系统架构设计-F80000?style=flat&labelColor=f8f9fa&color=F80000" />
-  </div>
+  <img src="https://img.shields.io/badge/🔥-技术热情-667eea?style=for-the-badge&labelColor=ffffff&color=667eea" />
+  <img src="https://img.shields.io/badge/📚-持续学习-ffeaa7?style=for-the-badge&labelColor=ffffff&color=ffeaa7" />
 </div>
 
 <br/>
+
+<!-- 技术热情内容 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🏗️-微服务架构设计与优化-4FC08D?style=flat&labelColor=f8f9fa&color=4FC08D" />
+  <img src="https://img.shields.io/badge/🤖-AI驱动的智能应用开发-6DB33F?style=flat&labelColor=f8f9fa&color=6DB33F" />
+  <br/>
+  <img src="https://img.shields.io/badge/📊-大数据处理与实时分析-2496ED?style=flat&labelColor=f8f9fa&color=2496ED" />
+  <img src="https://img.shields.io/badge/🔍-向量检索与语义搜索-FF6B6B?style=flat&labelColor=f8f9fa&color=FF6B6B" />
+</div>
+
+<br/>
+
+<!-- 持续学习内容 -->
+<div align="center">
+  <img src="https://img.shields.io/badge/☁️-云原生技术栈深度实践-326CE5?style=flat&labelColor=f8f9fa&color=326CE5" />
+  <img src="https://img.shields.io/badge/🧠-向量数据库性能优化-FF6F00?style=flat&labelColor=f8f9fa&color=FF6F00" />
+  <br/>
+  <img src="https://img.shields.io/badge/🕸️-图神经网络算法研究-8A2BE2?style=flat&labelColor=f8f9fa&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/🎯-分布式系统架构设计-F80000?style=flat&labelColor=f8f9fa&color=F80000" />
+</div>
 
 </div>
 

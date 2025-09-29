@@ -14,27 +14,36 @@
 
 ## 🌟 关于我
 
-```javascript
-const developer = {
-  name: "IT全栈开发者",
-  role: "Full Stack Developer & Database Architect",
-  location: "中国 🇨🇳",
-  motto: "用代码构建数字世界的桥梁",
-  
-  passion: [
-    "🏗️ 微服务架构设计",
-    "🤖 AI驱动的智能应用", 
-    "📊 大数据处理与分析",
-    "🔍 向量检索与语义搜索"
-  ],
-  
-  currentlyLearning: [
-    "云原生技术栈",
-    "向量数据库优化",
-    "图神经网络"
-  ]
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/👨‍💻_开发者-Anarkh--Lee-4FC08D?style=for-the-badge" alt="Developer"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🎯_角色-Full%20Stack%20Developer-6DB33F?style=for-the-badge" alt="Role"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🌍_位置-中国%20🇨🇳-FF6B6B?style=for-the-badge" alt="Location"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/💭_理念-用代码构建数字世界-2496ED?style=for-the-badge" alt="Motto"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔥 技术热情</h3>
+        <p>
+          🏗️ 微服务架构设计<br/>
+          🤖 AI驱动的智能应用<br/>
+          📊 大数据处理与分析<br/>
+          🔍 向量检索与语义搜索
+        </p>
+        <h3>📚 持续学习</h3>
+        <p>
+          ☁️ 云原生技术栈<br/>
+          🧠 向量数据库优化<br/>
+          🕸️ 图神经网络
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ 技术宇宙
 
@@ -183,31 +192,103 @@ graph TB
 <div align="center">
 
 ### 💎 核心作品
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=anarkh-faq-py3&theme=tokyonight&bg_color=0D1117&title_color=1E90FF&text_color=ffffff&icon_color=1E90FF&border_color=1E90FF)](https://github.com/Anarkh-Lee/anarkh-faq-py3)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=auth-demos&theme=tokyonight&bg_color=0D1117&title_color=1E90FF&text_color=ffffff&icon_color=1E90FF&border_color=1E90FF)](https://github.com/Anarkh-Lee/auth-demos)
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Anarkh-Lee/anarkh-faq-py3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=anarkh-faq-py3&theme=tokyonight&bg_color=0D1117&title_color=4FC08D&text_color=ffffff&icon_color=4FC08D&border_color=4FC08D" alt="anarkh-faq-py3"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Anarkh-Lee/auth-demos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anarkh-Lee&repo=auth-demos&theme=tokyonight&bg_color=0D1117&title_color=6DB33F&text_color=ffffff&icon_color=6DB33F&border_color=6DB33F" alt="auth-demos"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Python-智能问答系统-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Project"/>
+  <img src="https://img.shields.io/badge/☕_Java-身份认证演示-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Project"/>
+</p>
 
 </div>
 
 ## 📈 贡献活动
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Anarkh-Lee&theme=react-dark&bg_color=0D1117&color=1E90FF&line=1E90FF&point=ffffff&area=true&hide_border=false&custom_title=贡献活动图&title_color=1E90FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anarkh-Lee&theme=react-dark&bg_color=0D1117&color=4FC08D&line=6DB33F&point=ffffff&area=true&hide_border=false&custom_title=年度贡献活动统计" alt="贡献活动图" />
 </div>
 
 ## 💡 技能矩阵
 
 <div align="center">
 
-| 🏷️ 技术领域        | 🛠️ 主要技术栈                               | 📈 熟练程度      | 🎯 应用场景                |
-|:------------------:|:-------------------------------------------|:----------------:|:-------------------------|
-| **☕ 后端开发**      | Java, Spring Boot, Python, FastAPI        | ![95%](https://progress-bar.dev/95/?color=6DB33F&width=100) | 微服务架构, API开发        |
-| **🎨 前端开发**      | Vue.js, Angular, TypeScript, React        | ![90%](https://progress-bar.dev/90/?color=4FC08D&width=100) | SPA应用, 响应式设计       |
-| **💾 关系数据库**    | Oracle, MySQL, PostgreSQL, KingbaseES     | ![93%](https://progress-bar.dev/93/?color=4479A1&width=100) | 数据建模, 性能优化        |
-| **📊 NoSQL**        | MongoDB, Redis, Elasticsearch             | ![88%](https://progress-bar.dev/88/?color=47A248&width=100) | 缓存设计, 文档存储        |
-| **🕸️ 图数据库**      | Neo4j, 图算法                             | ![85%](https://progress-bar.dev/85/?color=008CC1&width=100) | 关系分析, 推荐系统        |
-| **🧠 向量数据库**    | Qdrant, Pinecone, 语义搜索                | ![82%](https://progress-bar.dev/82/?color=FF6B6B&width=100) | AI检索, 相似度匹配       |
-| **☁️ 云原生**       | Docker, Kubernetes, AWS, 阿里云            | ![80%](https://progress-bar.dev/80/?color=2496ED&width=100) | 容器化, 微服务编排       |
-| **🤖 AI/ML**        | TensorFlow, OpenAI API, 模型集成           | ![78%](https://progress-bar.dev/78/?color=FF6F00&width=100) | 智能应用, 自动化         |
+<table>
+  <tr>
+    <th>🏷️ 技术领域</th>
+    <th>🛠️ 主要技术栈</th>
+    <th>📈 熟练程度</th>
+    <th>🎯 应用场景</th>
+  </tr>
+  <tr>
+    <td><strong>☕ 后端开发</strong></td>
+    <td>Java, Spring Boot, Python, FastAPI</td>
+    <td><img src="https://img.shields.io/badge/95%25-6DB33F?style=flat-square&logoColor=white" alt="95%"/></td>
+    <td>微服务架构, API开发</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 前端开发</strong></td>
+    <td>Vue.js, Angular, TypeScript, React</td>
+    <td><img src="https://img.shields.io/badge/90%25-4FC08D?style=flat-square&logoColor=white" alt="90%"/></td>
+    <td>SPA应用, 响应式设计</td>
+  </tr>
+  <tr>
+    <td><strong>💾 关系数据库</strong></td>
+    <td>Oracle, MySQL, PostgreSQL, KingbaseES</td>
+    <td><img src="https://img.shields.io/badge/93%25-4479A1?style=flat-square&logoColor=white" alt="93%"/></td>
+    <td>数据建模, 性能优化</td>
+  </tr>
+  <tr>
+    <td><strong>📊 NoSQL</strong></td>
+    <td>MongoDB, Redis, Elasticsearch</td>
+    <td><img src="https://img.shields.io/badge/88%25-47A248?style=flat-square&logoColor=white" alt="88%"/></td>
+    <td>缓存设计, 文档存储</td>
+  </tr>
+  <tr>
+    <td><strong>🕸️ 图数据库</strong></td>
+    <td>Neo4j, 图算法</td>
+    <td><img src="https://img.shields.io/badge/85%25-008CC1?style=flat-square&logoColor=white" alt="85%"/></td>
+    <td>关系分析, 推荐系统</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 向量数据库</strong></td>
+    <td>Qdrant, Pinecone, 语义搜索</td>
+    <td><img src="https://img.shields.io/badge/82%25-FF6B6B?style=flat-square&logoColor=white" alt="82%"/></td>
+    <td>AI检索, 相似度匹配</td>
+  </tr>
+  <tr>
+    <td><strong>☁️ 云原生</strong></td>
+    <td>Docker, Kubernetes, AWS, 阿里云</td>
+    <td><img src="https://img.shields.io/badge/80%25-2496ED?style=flat-square&logoColor=white" alt="80%"/></td>
+    <td>容器化, 微服务编排</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI/ML</strong></td>
+    <td>TensorFlow, OpenAI API, 模型集成</td>
+    <td><img src="https://img.shields.io/badge/78%25-FF6F00?style=flat-square&logoColor=white" alt="78%"/></td>
+    <td>智能应用, 自动化</td>
+  </tr>
+</table>
+
+### 🏆 技术认证与成就
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-Certified_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Certified">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Certified">
+  <img src="https://img.shields.io/badge/Docker-Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Certified">
+  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="CKA">
+</p>
 
 </div>
 

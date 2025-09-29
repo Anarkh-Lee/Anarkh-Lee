@@ -120,47 +120,97 @@
 ## 📊 代码统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anarkh-Lee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=1E90FF&text_color=ffffff&icon_color=1E90FF&border_color=1E90FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anarkh-Lee&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=1E90FF&text_color=ffffff&border_color=1E90FF"/>
-</div>
+
+### 🎆 GitHub 数据概览
+
+<table>
+  <tr>
+    <td width="50%">
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Anarkh-Lee&show_icons=true&theme=vue&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=4FC08D&text_color=2c3e50&icon_color=6DB33F&border_color=4FC08D&border_radius=10" alt="GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anarkh-Lee&layout=compact&theme=vue&bg_color=ffffff&title_color=4FC08D&text_color=2c3e50&border_color=4FC08D&border_radius=10" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+### 🔥 连续贡献统计
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anarkh-Lee&theme=tokyonight&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1E90FF&sideLabels=ffffff&dates=ffffff&border=1E90FF" />
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anarkh-Lee&theme=vue&background=ffffff&stroke=4FC08D&ring=6DB33F&fire=FF6B6B&currStreakNum=2c3e50&sideNums=2c3e50&currStreakLabel=4FC08D&sideLabels=2c3e50&dates=2c3e50&border=4FC08D&border_radius=10" alt="GitHub Streak"/>
+</div>
+
 </div>
 
 ## 🏆 成就展示
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anarkh-Lee&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title_color=1E90FF&text_color=ffffff&bg_color=0D1117" />
+
+### 🌟 GitHub 成就奖杯
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anarkh-Lee&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=4FC08D&text_color=2c3e50&bg_color=ffffff" alt="GitHub Trophies"/>
+</div>
+
+### 📈 贡献数据分析
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🗺️_%E4%BB%93%E5%BA%93%E6%95%B0%E9%87%8F-10+-4FC08D?style=for-the-badge&labelColor=ffffff&color=6DB33F" alt="仓库"/>
+      <br/><sub>仓库数量</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📝_%E6%8F%90%E4%BA%A4%E6%AC%A1%E6%95%B0-100+-2496ED?style=for-the-badge&labelColor=ffffff&color=3178C6" alt="提交"/>
+      <br/><sub>提交次数</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/⭐_%E8%8E%B7%E5%BE%97%E6%98%9F%E6%A0%87-20+-FF6B6B?style=for-the-badge&labelColor=ffffff&color=F80000" alt="星标"/>
+      <br/><sub>获得星标</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/👥_%E5%85%B3%E6%B3%A8%E8%80%85-50+-9945FF?style=for-the-badge&labelColor=ffffff&color=8A2BE2" alt="关注者"/>
+      <br/><sub>关注者</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ## 🎯 技术架构
 
 ```mermaid
 graph TB
-    subgraph "Frontend Layer"
-        A1[Vue.js App]
-        A2[Angular App]
-        A3[Mobile App]
+    subgraph "🎨 前端层"
+        A1[🖥️ Vue.js App<br/>📱 响应式界面]
+        A2[⚡ Angular App<br/>🎯 企业级应用]
+        A3[📱 移动端<br/>🔄 跨平台方案]
     end
     
-    subgraph "API Gateway"
-        B[Nginx/Gateway]
+    subgraph "🚪 API网关层"
+        B[🌐 Nginx Gateway<br/>⚖️ 负载均衡]
     end
     
-    subgraph "Microservices"
-        C1[User Service<br/>Java Spring]
-        C2[Data Service<br/>Python FastAPI]
-        C3[Search Service<br/>Java/Python]
+    subgraph "⚙️ 微服务集群"
+        C1[👤 用户服务<br/>☕ Java Spring]
+        C2[📊 数据服务<br/>🐍 Python FastAPI]
+        C3[🔍 搜索服务<br/>🧠 AI驱动检索]
+        C4[🔐 认证服务<br/>🛡️ JWT + OAuth2]
     end
     
-    subgraph "Data Layer"
-        D1[(MySQL/Oracle<br/>关系型数据)]
-        D2[(MongoDB<br/>文档数据)]
-        D3[(Redis<br/>缓存)]
-        D4[(Neo4j<br/>图数据)]
-        D5[(Qdrant<br/>向量搜索)]
-        D6[(KingbaseES<br/>国产数据库)]
+    subgraph "💾 数据存储层"
+        D1[(🏢 Oracle/MySQL<br/>📋 关系型数据)]
+        D2[(📄 MongoDB<br/>📝 文档数据)]
+        D3[(⚡ Redis<br/>🚀 高速缓存)]
+        D4[(🕸️ Neo4j<br/>🔗 图关系网络)]
+        D5[(🧠 Qdrant<br/>🎯 向量语义搜索)]
+        D6[(🇨🇳 KingbaseES<br/>🔒 国产安全数据库)]
+    end
+    
+    subgraph "☁️ 基础设施"
+        E1[🐳 Docker 容器化]
+        E2[⚓ Kubernetes 编排]
+        E3[☁️ 云服务平台]
     end
     
     A1 --> B
@@ -170,6 +220,7 @@ graph TB
     B --> C1
     B --> C2
     B --> C3
+    B --> C4
     
     C1 --> D1
     C1 --> D3
@@ -177,14 +228,26 @@ graph TB
     C2 --> D6
     C3 --> D4
     C3 --> D5
+    C4 --> D3
     
-    style A1 fill:#1E90FF,color:#fff
-    style A2 fill:#1E90FF,color:#fff
-    style A3 fill:#1E90FF,color:#fff
-    style B fill:#1E90FF,color:#fff
-    style C1 fill:#1E90FF,color:#fff
-    style C2 fill:#1E90FF,color:#fff
-    style C3 fill:#1E90FF,color:#fff
+    C1 -.-> E1
+    C2 -.-> E1
+    C3 -.-> E1
+    E1 --> E2
+    E2 --> E3
+    
+    %% 样式定义
+    classDef frontendStyle fill:#4FC08D,stroke:#4FC08D,stroke-width:3px,color:#fff,font-weight:bold
+    classDef gatewayStyle fill:#2496ED,stroke:#2496ED,stroke-width:3px,color:#fff,font-weight:bold
+    classDef serviceStyle fill:#6DB33F,stroke:#6DB33F,stroke-width:3px,color:#fff,font-weight:bold
+    classDef dataStyle fill:#336791,stroke:#336791,stroke-width:3px,color:#fff,font-weight:bold
+    classDef infraStyle fill:#326CE5,stroke:#326CE5,stroke-width:3px,color:#fff,font-weight:bold
+    
+    class A1,A2,A3 frontendStyle
+    class B gatewayStyle
+    class C1,C2,C3,C4 serviceStyle
+    class D1,D2,D3,D4,D5,D6 dataStyle
+    class E1,E2,E3 infraStyle
 ```
 
 ## 🚀 精选项目
